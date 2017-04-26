@@ -13,7 +13,7 @@ def get_web_source(web_url):
     return response.content
 ```
 
-有认真网页下载，python request实现：   
+有认证网页下载，python request实现：   
 
 ```
 import requests
